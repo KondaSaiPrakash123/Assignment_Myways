@@ -1,0 +1,10 @@
+This is a assignment for MyWays Company.
+
+At the front-end, I have utilized ReactJS as my framework to maintain the state and functionality of the project.
+In ReactJS , I have used technologies like :
+    - React Router
+    - React Functional Components with hooks
+    - React Icons
+
+At the Backend, I have utilized MangoDB connection.
+created a blogging portal for MyWays with functionality to CREATE, READ, UPDATE, DELETE, Blogs.
